@@ -30,6 +30,10 @@
     "sweetalert2": "^10.3.3",
     "web-vitals": "^2.1.4"
   },
+  "engines": {
+    "node": "16.13.1",
+    "npm": "8.1.2"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
